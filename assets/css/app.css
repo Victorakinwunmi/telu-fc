@@ -865,8 +865,8 @@ video {
   padding-bottom: 10rem;
 }
 
-.pt-48 {
-  padding-top: 12rem;
+.pt-52 {
+  padding-top: 13rem;
 }
 
 .pb-32 {
@@ -963,8 +963,8 @@ video {
 }
 
 @media (min-width: 640px) {
-  .sm\:pt-60 {
-    padding-top: 15rem;
+  .sm\:pt-56 {
+    padding-top: 14rem;
   }
 
   .sm\:pb-60 {
@@ -1037,6 +1037,10 @@ video {
   .lg\:py-96 {
     padding-top: 24rem;
     padding-bottom: 24rem;
+  }
+
+  .lg\:pt-72 {
+    padding-top: 18rem;
   }
 
   .lg\:pb-96 {
