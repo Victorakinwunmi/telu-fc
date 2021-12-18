@@ -865,8 +865,8 @@ video {
   padding-bottom: 10rem;
 }
 
-.pt-32 {
-  padding-top: 8rem;
+.pt-48 {
+  padding-top: 12rem;
 }
 
 .pb-32 {
@@ -1004,6 +1004,11 @@ video {
   .md\:py-56 {
     padding-top: 14rem;
     padding-bottom: 14rem;
+  }
+
+  .md\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
   }
 
   .md\:text-7xl {
